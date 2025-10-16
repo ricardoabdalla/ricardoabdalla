@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Ricardo 🙂
+
+I've been working as a Software Engineering Manager, and I have a background in Computer Science. I’m also very interested in financial topics, as well as the history of money and payment systems.
+
+
 
 <!--
 **ricardoabdalla/ricardoabdalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
