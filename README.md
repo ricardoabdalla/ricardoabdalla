@@ -2,10 +2,10 @@
 
 I've been working as a Software Engineering Manager, and I have a background in Computer Science. I’m also very interested in financial topics, as well as the history of money and payment systems.
 
-🎓 I studied Computer Science at Universidade Federal Fluminense (UFF-BR). 
-💳 Most of my career has been in the payments industry. 
-₿ I'm a big fan of Bitcoin. 
-👨🏻‍💻 I love programming and I try to code whenever I can. My favorite languages are Java, Go, and Python (I'm currently also studying C++). 
+- 🎓 I studied Computer Science at Universidade Federal Fluminense (UFF-BR). 
+- 💳 Most of my career has been in the payments industry. 
+- ₿ I'm a big fan of Bitcoin. 
+- 👨🏻‍💻 I love programming and I try to code whenever I can. My favorite languages are Java, Go, and Python (I'm currently also studying C++). 
 
 
 
